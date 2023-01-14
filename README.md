@@ -3,7 +3,7 @@ Chess Font is a collection of glyphs for chess websites
 
 ## Glyphs List
 
-**Demo Website** - **[https://www.salsan.dev/chess-font/](https://www.salsan.dev/chess-font/)**
+**Demo Website** - **[https://project.salsan.dev/chess-font/](https://www.salsan.dev/chess-font/)**
 
 
 ### Internet chess server
