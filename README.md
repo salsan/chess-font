@@ -68,7 +68,7 @@ Chess Font is a collection of glyphs for chess websites
 
 
 
-### Generic Gliphs
+### Generic Glyphs
 | Glyph | Name | Code | 
 |-------|------|------| 
 | ![image](https://user-images.githubusercontent.com/111319/166730302-9488ab36-5d9f-487d-9891-7a30ee0881af.png) | address-card-solid | e904 |
