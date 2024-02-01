@@ -3,6 +3,8 @@ Chess Font is a collection of glyphs for chess websites
 
 ## Glyphs List
 
+**Demo Website** - **[https://project.salsan.dev/chess-font/](https://project.salsan.dev/chess-font/)**
+
 ### Internet chess server
  
 #### [Chess.com](https://www.chess.com/)
@@ -39,7 +41,6 @@ Chess Font is a collection of glyphs for chess websites
 | ![image](https://user-images.githubusercontent.com/111319/166720980-619e1ea4-3d8f-4f38-80b7-4d231b82ffa9.png) | fide-rapid | e911 |
 | ![image](https://user-images.githubusercontent.com/111319/166721262-73d357a5-3763-48a6-8d9e-0db73c791507.png) | fide-standard | e912 |
  
-
 ### Chess Category/Title
 #### Italy -  [Federazione Scacchistica Italiana](https://www.federscacchi.it/)
 | Glyph | Name | Code | 
@@ -63,9 +64,7 @@ Chess Font is a collection of glyphs for chess websites
 | ![image](https://user-images.githubusercontent.com/111319/166726760-fdce8165-a56a-4f26-b562-ab42892a30c8.png) | fide-title-im | e925 |
 | ![image](https://user-images.githubusercontent.com/111319/166726679-637202ff-1707-44ed-a4f5-177f27aa7739.png)| fide-title-gm | e926 |
 
-
-
-### Generic Gliphs
+### Generic Glyphs
 | Glyph | Name | Code | 
 |-------|------|------| 
 | ![image](https://user-images.githubusercontent.com/111319/166730302-9488ab36-5d9f-487d-9891-7a30ee0881af.png) | address-card-solid | e904 |
@@ -79,6 +78,10 @@ Chess Font is a collection of glyphs for chess websites
 | ![image](https://user-images.githubusercontent.com/111319/166730969-d4cb78ea-b9a0-47d9-9212-4be4687c2c79.png) | chess-board-solid | e90c |
 | ![image](https://user-images.githubusercontent.com/111319/166730644-dfdf1716-b797-41eb-81e7-04fec39f9b57.png) | graduation-cap-solid | e90d |
 
+### Salsan Chess Glyphs
+| Glyph | Name | Code | 
+|-------|------|------| 
+| ![image](https://github.com/salsan/chess-font/assets/111319/bdd1dcee-564b-404d-8cfc-e164b0da58c7)| chess-tournament | e929 |
 
 ## License
 | Glyph | Authors | License |
@@ -89,6 +92,7 @@ Chess Font is a collection of glyphs for chess websites
 | FIDE | [FIDE authors](https://fide.com/) | Unkown |
 | Chess Category/Title | [Steve Deffeyes](http://deffeyes.com/) | Unkown |
 | Generic Glyphs | [Font Awesome](https://fontawesome.com/) | [OFL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)|
+| Salsan Chess Glyphs | [Salvatore Santagati](https://salsan.dev) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
  
 
 - All brand icons are trademarks of their respective owners.
