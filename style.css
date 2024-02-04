@@ -26,6 +26,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-fsi-club-ct-15110:before {
+  content: "\e92c";
+}
+.icon-fsi-club-ct-15101:before {
+  content: "\e92a";
+  color: #231f20;
+}
+.icon-fsi-committee-sicily:before {
+  content: "\e92b";
+}
 .icon-chess-tournament:before {
   content: "\e929";
 }
@@ -152,4 +162,3 @@
 .icon-lichess-classical:before {
   content: "\e918";
 }
-
