@@ -32,6 +32,20 @@ Chess Font is a collection of glyphs for chess websites
 | ![image](https://user-images.githubusercontent.com/111319/166706743-3fe6ec7c-e9a2-4c38-b4f2-02f37aeedc8d.png) | fsi-logo | e919 |
 | ![image](https://user-images.githubusercontent.com/111319/166707111-89bcfcf1-6ad9-4d1d-8633-2f0660971b15.png) | fsi-master-logo | e928 |
 
+##### [Committee](https://federscacchi.it/str_comreg.php)
+| Glyph | Name | Code | 
+|-------|------|------| 
+| ![image](https://github.com/salsan/chess-font/assets/111319/f02922f3-6578-4327-820f-518d25d655ee)| fsi-committee-sicily | e92b |
+
+
+##### [Clubs](https://federscacchi.it/str_soc.php?id=&reg=&pro=&ord=2&senso=asc&den=&ric=1)
+| Glyph | Name | Code | 
+|-------|------|------| 
+| ![image](https://github.com/salsan/chess-font/assets/111319/769771e8-69fc-43a9-b057-3810a4f4e8f5) | fsi-club-ct-15110 | e92c |
+| ![image](https://github.com/salsan/chess-font/assets/111319/c6ee4581-1ba7-473b-931a-c0979961e6a1) | fsi-club-ct-15101 | e92a |
+
+
+
 #### [FIDE](https://www.fide.com/)
 | Glyph | Name | Code | 
 |-------|------|------| 
@@ -88,7 +102,7 @@ Chess Font is a collection of glyphs for chess websites
 |-------|---------|---------|
 | Lichess.org | [Dave Gandy](http://fontawesome.io/), [GitHub](https://github.com/primer/octicons), [Webalys](http://www.webalys.com/), [Zurb](http://zurb.com/playground/foundation-icon-fonts-3), [Daniel Bruce](http://www.entypo.com/), [Shapemade](http://steadysets.com/), [Sergey Shmidt](http://designmodo.com/linecons-free/) and the [Lichess authors](https://github.com/lichess-org/lila/blob/master/COPYING.md) | [OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), [MIT](https://github.com/primer/octicons/blob/master/LICENSE), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), AGPLv3+ | 
 | Chess.com | [Chess.com authors](https://github.com/ChessCom) | Unkown |
-| Federazione Scacchistica Italiana | [FSI authors](https://www.federscacchi.it/) | Unkown |
+| Federazione Scacchistica Italiana | [FSI authors](https://www.federscacchi.it/) , [Committee](https://federscacchi.it/str_comreg.php) , [Clubs](https://federscacchi.it/str_soc.php?id=&reg=&pro=&ord=2&senso=asc&den=&ric=1)| Unkown |
 | FIDE | [FIDE authors](https://fide.com/) | Unkown |
 | Chess Category/Title | [Steve Deffeyes](http://deffeyes.com/) | Unkown |
 | Generic Glyphs | [Font Awesome](https://fontawesome.com/) | [OFL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)|
