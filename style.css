@@ -1,15 +1,14 @@
 @font-face {
   font-family: 'Chess';
-  src:  url('https://projects.salsan.dev/chess-font/files/Chess.eot?rrsh65');
-  src:  url('https://projects.salsan.dev/chess-font/files/Chess.eot?rrsh65#iefix') format('embedded-opentype'),
-    url('https://projects.salsan.dev/chess-font/files/Chess.ttf?rrsh65') format('truetype'),
-    url('https://projects.salsan.dev/chess-font/files/Chess.woff?rrsh65') format('woff'),
-    url('https://projects.salsan.dev/chess-font/files/chess-font/Chess.svg?rrsh65#Chess') format('svg');
+  src:  url('https://projects.salsan.dev/chess-font/files/Chess.eot?9lbogm');
+  src:  url('https://projects.salsan.dev/chess-font/files/Chess.eot?9lbogm#iefix') format('embedded-opentype'),
+    url('https://projects.salsan.dev/chess-font/files/Chess.ttf?9lbogm') format('truetype'),
+    url('https://projects.salsan.dev/chess-font/files/Chess.woff?9lbogm') format('woff'),
+    url('https://projects.salsan.dev/chess-font/files/Chess.svg?9lbogm#Chess') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -26,12 +25,59 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-fsi-club-rg-15109:before {
+  content: "\e939";
+}
+.icon-fsi-club-pa-15085:before {
+  content: "\e93a";
+}
+.icon-fsi-club-tp-15021:before {
+  content: "\e93b";
+}
+.icon-fsi-club-ct-15102:before {
+  content: "\e93c";
+}
+.icon-chess_team:before {
+  content: "\e938";
+}
+.icon-fsi-club-tp-15044:before {
+  content: "\e92d";
+}
+.icon-fsi-club-cl-15086:before {
+  content: "\e92e";
+}
+.icon-fsi-club-ag-15062:before {
+  content: "\e92f";
+}
+.icon-fsi-club-ct-15111:before {
+  content: "\e930";
+}
+.icon-fsi-club-ct--15003:before {
+  content: "\e931";
+}
+.icon-fsi-club-pa-15081:before {
+  content: "\e932";
+}
+.icon-fsi-club-pa-15103:before {
+  content: "\e933";
+}
+.icon-fsi-club-pa-15114:before {
+  content: "\e934";
+}
+.icon-fsi-club-rg-15042:before {
+  content: "\e935";
+}
+.icon-fsi-club-tp-15057:before {
+  content: "\e936";
+}
+.icon-fsi-club-me-15115:before {
+  content: "\e937";
+}
 .icon-fsi-club-ct-15110:before {
   content: "\e92c";
 }
 .icon-fsi-club-ct-15101:before {
   content: "\e92a";
-  color: #231f20;
 }
 .icon-fsi-committee-sicily:before {
   content: "\e92b";
